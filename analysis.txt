@@ -1,0 +1,2 @@
+We need data about patients, wards, dates, temperatures and inflammation size.
+
